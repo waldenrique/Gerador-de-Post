@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Post para Instagram com IA",
+  "description": "Um aplicativo que usa IA para gerar um título, uma descrição e uma imagem para uma postagem no Instagram com base no tipo de negócio e em um resumo fornecido pelo usuário.",
+  "requestFramePermissions": []
+}
